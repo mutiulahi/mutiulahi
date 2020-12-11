@@ -8,5 +8,3 @@
 - 💬 Ask me about PHP and LARAVEL 
 - 📫 How to reach me: +2347067526407, tesleemolamilekan902@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
