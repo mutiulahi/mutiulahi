@@ -10,3 +10,8 @@
 - 📫 How to reach me: +2347067526407, tesleemolamilekan902@gmail.com
 - 😄 Pronouns: He/Him
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mutiulahi)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutiulahi&langs_count=6)](https://github.com/mutiulahi/github-readme-stats)
