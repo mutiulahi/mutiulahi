@@ -1,9 +1,9 @@
 ### Hi there it's Tescode 👋
 
-🌱 My name is Mutiulahi Tesleem O.😀, I am a self-taught PHP/LARAVEL Developer
+🌱 My name is Mutiulahi Tesleem Olamilekan.😀, I am a self-taught PHP/LARAVEL Developer
 
 - 🔭 I’m currently working on private tutor finder
-- 🌱 I’m currently learning Laravel and Vue.js
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on any Laravel Project and PHP Project 
 - 🤔 I’m looking for help with internship position and a good working machine
 - 💬 Ask me about PHP and LARAVEL 
