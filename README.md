@@ -3,7 +3,7 @@
 🌱 My name is Mutiulahi Tesleem Olamilekan.😀, I am a self-taught PHP/LARAVEL Developer
 
 - 🔭 I’m done working on private tutor finder system
-- 🤔 I'm for new project to work on let talk if you have any for me.
+- 🤔 I'm looking for new project to work on let talk if you have any for me.
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on any Laravel Project and PHP Project 
 - 🤔 I’m looking for help with internship position and a good working machine
